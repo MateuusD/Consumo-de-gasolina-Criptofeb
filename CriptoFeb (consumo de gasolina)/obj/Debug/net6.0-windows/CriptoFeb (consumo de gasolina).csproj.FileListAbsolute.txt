@@ -1,0 +1,72 @@
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).exe
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).deps.json
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).runtimeconfig.json
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Form1.resources
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Properties.Resources.resources
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfo.cs
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\refint\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).genruntimeconfig.cache
+C:\Users\Windows\source\repos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\ref\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Form1.resources
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Properties.Resources.resources
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfo.cs
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\refint\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).exe
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).deps.json
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).runtimeconfig.json
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).genruntimeconfig.cache
+C:\Users\Windows\Desktop\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\ref\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).exe
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).deps.json
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).runtimeconfig.json
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Form1.resources
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\refint\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Backup\S.I\Códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\ref\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).exe
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).deps.json
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).runtimeconfig.json
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\bin\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Form1.resources
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb__consumo_de_gasolina_.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\refint\CriptoFeb (consumo de gasolina).dll
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).pdb
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\CriptoFeb (consumo de gasolina).genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Backup\FACULDADE\Testes de códigos\CriptoFeb (consumo de gasolina)\CriptoFeb (consumo de gasolina)\obj\Debug\net6.0-windows\ref\CriptoFeb (consumo de gasolina).dll
